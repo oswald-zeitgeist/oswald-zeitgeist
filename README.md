@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oswald-zeitgeist
+- 👋 Hi, I’m @oswald-F-zeitgeist
 - 👀 I’m interested in social mischief
-- 🌱 I’m currently learning erlang
-- 💞️ I’m looking to collaborate on electoral work, digital rights
+- 🌱 I’m currently not really learning 
+- 💞️ I’m looking to collaborate on electoral work, digital rights, mischief and jokes
 - 📫 How to reach me: don't.
